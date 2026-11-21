@@ -1,1 +1,1 @@
-print("practice is fun")
+print("practice is diddy")
